@@ -3,12 +3,10 @@
 <p align="center">
 Metal band from Juiz de Fora
 </p>
-
-<p align="center">
-  
-
-
-## 🚀 Tecnologias
+<img alt="Projeto" src="./assets/MORTEIN.png"  >
+<p>
+<br>
+ 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
