@@ -2,9 +2,10 @@
 
 <p align="center">
 Metal band from Juiz de Fora
-</p align="center">
+</p>
+<p aling="center">
 <img alt="Projeto" src="./assets/MORTEIN.png"  >
-<p>
+</p>
 <br>
  🚀 Tecnologias
 
@@ -14,10 +15,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 - Git e Github
 
-
 ---
-
-
-
 
 Feito por Joaquim Gomes
