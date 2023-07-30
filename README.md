@@ -2,7 +2,7 @@
 
 <p align="center">
 Metal band from Juiz de Fora
-</p>
+</p align="center">
 <img alt="Projeto" src="./assets/MORTEIN.png"  >
 <p>
 <br>
