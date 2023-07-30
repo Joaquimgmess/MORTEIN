@@ -19,8 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Esse projeto está sob a licença MIT.
 
----
 
-Feito Feito por Joaquim Gomes
+
+Feito por Joaquim Gomes
