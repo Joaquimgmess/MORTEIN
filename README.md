@@ -1,4 +1,4 @@
-<h1 align="center"> Agrupador de links MORTEIN </h1>
+<h1 align="center"> Agrupador de links @MÖRTEIN </h1>
 
 <p align="center">
 Metal band from Juiz de Fora
